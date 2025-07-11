@@ -1,6 +1,6 @@
 # PLTestLab + CUE 🚀
 
-> **"Tan simple como quieras. Tan complejo como necesites. Hecho para humanos."**
+> **"As simple as you want. As complex as you need. Made for humans."**
 
 Enterprise Testing Framework for Oracle PL/SQL with Interactive Observability Dashboard
 
@@ -60,9 +60,9 @@ Traditional Oracle testing is broken. You're stuck with utPLSQL's limitations, c
 
 ### Core Principles
 
-1. **Tan simple como quieras** - Basic test in 3 lines, zero configuration
-2. **Tan complejo como necesites** - Enterprise multi-step flows with exhaustive validation  
-3. **Hecho para humanos** - Interactive dashboards, clear errors, intelligent defaults
+1. **As simple as you want** - Basic test in 3 lines, zero configuration
+2. **As complex as you need** - Enterprise multi-step flows with exhaustive validation  
+3. **Made for humans** - Interactive dashboards, clear errors, intelligent defaults
 
 ### Components
 
